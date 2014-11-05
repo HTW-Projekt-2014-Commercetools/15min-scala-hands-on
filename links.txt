@@ -1,0 +1,4 @@
+http://www.scalatutorial.de/index.html
+http://www.scala-lang.org/documentation/
+https://www.coursera.org/course/progfun
+http://akka.io/
